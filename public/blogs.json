@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "featuredImage": "https://i.ibb.co.com/b5R4WPzC/1689143931071.png",
+      "authorName": "Kent C. Dodds",
+      "authorImage": "https://i.ibb.co.com/PGMxJVzw/channels4-profile.jpg",
+      "postDate": "2025-04-01",
+      "readingTime": "6 min read",
+      "title": "Making React Apps More Performant with Code Splitting",
+      "hashtags": ["#ReactJS", "#Performance", "#JavaScript"]
+    },
+    {
+      "id": "2",
+      "featuredImage": "https://i.ibb.co.com/Zp01Z3dJ/1714023597338.png",
+      "authorName": "Dan Abramov",
+      "authorImage": "https://i.ibb.co.com/XrFkhDB3/1-xx-VEf-OOAm-IKHWOUlo-RKLhw.jpg",
+      "postDate": "2025-03-29",
+      "readingTime": "7 min read",
+      "title": "The Future of React: What’s Coming in React 19",
+      "hashtags": ["#React", "#JavaScript", "#WebDev"]
+    },
+    {
+      "id": "3",
+      "featuredImage": "https://i.ibb.co.com/5WcC1qkR/web-performance-optimization-featured.jpg",
+      "authorName": "Addy Osmani",
+      "authorImage": "https://i.ibb.co.com/krLFNR6/unnamed.jpg",
+      "postDate": "2025-03-25",
+      "readingTime": "5 min read",
+      "title": "Optimizing Web Performance in 2025: Best Practices",
+      "hashtags": ["#WebPerformance", "#Chrome", "#Frontend"]
+    },
+    {
+      "id": "4",
+      "featuredImage": "https://i.ibb.co.com/m5FydmPB/1-V3b-IItze-HKIEWo9-8-B13-Q.jpg",
+      "authorName": "Guillermo Rauch",
+      "authorImage": "https://i.ibb.co.com/fVvSPG67/rauchg-3d4cecf.jpg",
+      "postDate": "2025-03-21",
+      "readingTime": "8 min read",
+      "title": "Next.js and the Evolution of Fullstack Frameworks",
+      "hashtags": ["#NextJS", "#FullStack", "#Serverless"]
+    },
+    {
+      "id": "5",
+      "featuredImage": "https://i.ibb.co.com/s90mkyCY/cool-svg-animation-examples.png",
+      "authorName": "Sarah Drasner",
+      "authorImage": "https://i.ibb.co.com/20yWtVZ4/Sarah-Drasner.jpg",
+      "postDate": "2025-03-18",
+      "readingTime": "6 min read",
+      "title": "Creative UI Animations with CSS and SVG",
+      "hashtags": ["#CSS", "#SVG", "#Animations"]
+    }
+  ]
+  
