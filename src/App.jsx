@@ -8,12 +8,18 @@ function App() {
   const [bookmarks, setBookmarks] = useState([]);
   const [readTime, setReadTime] = useState(0);
 
-  const handleReadTime = time => {
+  const handleReadTime = (id, time) => {
+    // if marked as read, then that blog should be removed from bookmarks
+    const newBookmarks = bookmarks.filter(bookmark => bookmark.id != id);
+    setBookmarks(newBookmarks);
+
+    // setting read time
     const newReadTime = readTime + parseInt(time);
     setReadTime(newReadTime)
   }
 
   const handleBookmarks = (blog) => {
+    console.log(blog)
     const isAlreadyBookmarked = bookmarks.find(bookmark => bookmark.id == blog.id);
     let newBookmarks;
     if (isAlreadyBookmarked) {
